@@ -1,0 +1,5 @@
+/Users/herald/Desktop/COURS/L3/S6/Computer Graphics/CG1_25L_01204477_Proj1-2/Project2/build/CMakeFiles/app.dir
+/Users/herald/Desktop/COURS/L3/S6/Computer Graphics/CG1_25L_01204477_Proj1-2/Project2/build/CMakeFiles/edit_cache.dir
+/Users/herald/Desktop/COURS/L3/S6/Computer Graphics/CG1_25L_01204477_Proj1-2/Project2/build/CMakeFiles/rebuild_cache.dir
+/Users/herald/Desktop/COURS/L3/S6/Computer Graphics/CG1_25L_01204477_Proj1-2/Project2/build/CMakeFiles/app_autogen_timestamp_deps.dir
+/Users/herald/Desktop/COURS/L3/S6/Computer Graphics/CG1_25L_01204477_Proj1-2/Project2/build/CMakeFiles/app_autogen.dir
