@@ -99,8 +99,11 @@ Project2/
 ---
 
 ## 📷 Screenshots 
-<img width="883" alt="Capture d’écran 2025-03-31 à 19 55 18" src="https://github.com/user-attachments/assets/f7389225-e6c2-41cd-aca9-e1422facc5a6" />
+<img width="883" alt="428728927-f7389225-e6c2-41cd-aca9-e1422facc5a6" src="https://github.com/user-attachments/assets/3b353412-32f1-4ce8-a4de-7026d03be54d" />
 
-<img width="901" alt="Capture d’écran 2025-03-31 à 19 55 25" src="https://github.com/user-attachments/assets/5616f54c-c4e5-4077-b3ca-36c579c73de6" />
+
+<img width="901" alt="428729024-5616f54c-c4e5-4077-b3ca-36c579c73de6" src="https://github.com/user-attachments/assets/39b73f1d-d3ea-4f35-a4a7-ea94acf8e788" />
+
+
 
 ---
